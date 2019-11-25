@@ -1,0 +1,37 @@
+html, body, {
+    position:fixed;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+}
+
+.img-size{
+  width:500px;
+  height:auto;
+}
+
+.background-thai{
+  background: url("https://img.freepik.com/free-vector/thai-pattern-supreme-gold-background_58796-23.jpg?size=626&ext=jpg");
+  background-size:cover;
+}
+
+.background-thai-red{
+  background: url("https://image.freepik.com/free-vector/thai-pattern-dark-red-background_58796-28.jpg");
+  background-size: cover;
+
+}
+
+.border-black{
+  border: #000 solid 3px;
+
+}
+
+body{
+  font-family: 'Indie Flower', cursive;
+}
+
+.form-header{
+  color: #fff;
+  font-size: 3em;
+}
